@@ -1,0 +1,99 @@
+/* Assignment 1. Burger Baron, Jieun Lee */
+Burger
+Beef Burger
+Chicken Burger
+Veggie Burger
+Single Burger
+Double Burger
+Triple Burger
+Single Beef Burger
+Double Beef Burger
+Triple Beef Burger
+Single Chicken Burger
+Double Chicken Burger
+Triple Chicken Burger
+Single Veggie Burger
+Double Veggie Burger
+Triple Veggie Burger
+Burger with Cheddar
+Burger with Mushrooms
+Burger with Veggies
+Burger with Ketchup Veggies
+Burger with Sauce Veggies Cheese
+Veggie Burger with Cheddar
+Veggie Burger with Mushrooms
+Veggie Burger with Veggies
+Veggie Burger with Ketchup Veggies
+Veggie Burger with Sauce Veggies Cheese
+Double Burger with Ketchup Veggies
+Triple Burger with Ketchup Veggies
+Burger with Ketchup Baron-Sauce Cheddar Mozzarella Pepperjack Mayonnaise
+Double Burger with Ketchup Baron-Sauce Cheddar Mozzarella Pepperjack Mayonnaise
+Triple Burger with Ketchup Baron-Sauce Cheddar Mozzarella Pepperjack Mayonnaise
+Burger with Cheddar but no Cheddar
+Burger with Sauce but no Sauce 
+Burger with Sauce but no Mustard
+Burger with Sauce but no Mustard Mayonnaise
+Burger with Sauce Veggies Cheese but no Mayonnaise
+Double Burger with Cheddar but no Cheddar
+Double Burger with Sauce but no Sauce 
+Double Burger with Sauce but no Mayonnaise
+Double Burger with Sauce Veggies Cheese but no Mayonnaise
+Triple Burger with Cheddar but no Cheddar
+Triple Burger with Sauce but no Sauce 
+Triple Burger with Sauce but no Mustard Mayonnaise
+Triple Burger with Sauce Veggies Cheese but no Mayonnaise
+Double Veggie Burger with Sauce but no Mustard Mayonnaise
+Double Veggie Burger with Sauce Veggies Cheese but no Mayonnaise
+Triple Veggie Burger with Sauce but no Mustard Mayonnaise
+Triple Veggie Burger with Sauce Veggies Cheese but no Mayonnaise
+Baron Burger
+Beef Baron Burger
+Chicken Baron Burger
+Veggie Baron Burger
+Single Baron Burger
+Double Baron Burger
+Triple Baron Burger
+Single Beef Baron Burger
+Double Beef Baron Burger
+Triple Beef Baron Burger
+Single Chicken Baron Burger
+Double Chicken Baron Burger
+Triple Chicken Baron Burger
+Single Veggie Baron Burger
+Double Veggie Baron Burger
+Triple Veggie Baron Burger
+Baron Burger with no Cheddar
+Baron Burger with no Mushrooms
+Baron Burger with no Veggies
+Baron Burger with no Ketchup Veggies
+Baron Burger with no Sauce Veggies Cheese
+Veggie Baron Burger with no Cheddar
+Veggie Baron Burger with no Mushrooms
+Veggie Baron Burger with no Veggies
+Veggie Baron Burger with no Ketchup Veggies
+Veggie Baron Burger with no Sauce Veggies Cheese
+Double Baron Burger with no Ketchup Veggies
+Triple Baron Burger with no Ketchup Veggies
+Baron Burger with no Ketchup Baron-Sauce Cheddar Mozzarella Pepperjack Mayonnaise
+Double Baron Burger with no Ketchup Baron-Sauce Cheddar Mozzarella Pepperjack Mayonnaise
+Triple Baron Burger with no Ketchup Baron-Sauce Cheddar Mozzarella Pepperjack Mayonnaise
+Baron Burger with no Cheddar but Cheddar
+Baron Burger with no Sauce but Sauce 
+Baron Burger with no Sauce but Mustard
+Baron Burger with no Sauce but Mustard Mayonnaise
+Baron Burger with no Sauce Veggies Cheese but Mayonnaise
+Double Baron Burger with no Cheddar but Cheddar
+Double Baron Burger with no Sauce but Sauce 
+Double Baron Burger with no Sauce but Mayonnaise
+Double Baron Burger with no Sauce Veggies Cheese but Mayonnaise
+Triple Baron Burger with no Cheddar but Cheddar
+Triple Baron Burger with no Sauce but Sauce 
+Triple Baron Burger with no Sauce but Mustard Mayonnaise
+Triple Baron Burger with no Sauce Veggies Cheese but Mayonnaise
+Double Veggie Baron Burger with no Sauce but Mustard Mayonnaise
+Double Veggie Baron Burger with no Sauce Veggies Cheese but Mayonnaise
+Triple Veggie Baron Burger with no Sauce but Mustard Mayonnaise
+Triple Veggie Baron Burger with no Sauce Veggies Cheese but Mayonnaise
+Triple Chicken Burger with Onions Cheese but no Cheddar
+Baron Burger with no Veggies Sauce but Baron-Sauce
